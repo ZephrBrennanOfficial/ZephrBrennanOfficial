@@ -26,19 +26,19 @@ Business strategist, sales enthusiast, and unapologetic advocate for evidence-ba
 
 ## 🔗 Latest Launch — Sales Call Analyzer
 
-**Status:** Laounced on LinkedIn — July 31, 2026
-**Repo:** [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer)
-**LinkedIn Post:** [View the announcement](https://www.linkedin.com/in/zephr-bren-a50413426)
-
-Currently seeking testers! If you're in sales and want AI-powered call coaching, check it out.
-
-
-## 🔗 Latest Launch — Sales Call Analyzer
-
-**👉 [Try it live in your browser](https://base44.app/api/apps/6a6bc05785c492d22502c10b/files/mp/public/6a6bc05785c492d22502c10b/bfafe47d4_index.html)** — no install needed, works on any device.
+**👉 [Try it live — 100% free, no signup]()** — upload a sales call, get AI coaching in 2 minutes.
 
 **Status:** Launched July 31, 2026 — seeking testers
 **Repo:** [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer)
 **LinkedIn Post:** [View the announcement](https://www.linkedin.com/in/zephr-bren-a50413426)
 
-What it does: Upload a sales call recording → AI gives you a score, feedback, objection analysis, and next steps. Built for sales reps and managers who want coaching without the wait.
+What it does: Send a sales call recording → AI gives you a score, feedback, objection analysis, and next steps. Completely free — no API key or signup needed.
+## 🔗 Latest Launch — Sales Call Analyzer
+
+**👉 [Try it live — 100% free, no signup]()** — upload a sales call, get AI coaching in 2 minutes.
+
+**Status:** Launched July 31, 2026 — seeking testers
+**Repo:** [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer)
+**LinkedIn Post:** [View the announcement](https://www.linkedin.com/in/zephr-bren-a50413426)
+
+What it does: Send a sales call recording → AI gives you a score, feedback, objection analysis, and next steps. Completely free — no API key or signup needed.
