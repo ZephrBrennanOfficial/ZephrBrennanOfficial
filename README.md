@@ -1,4 +1,4 @@
-# Hi, I'm Cheryl Brennan 👋
+# Hi, I'm Zephr Brennan 👋
 
 Business strategist, sales enthusiast, and unapologetic advocate for evidence-based policy in Aotearoa New Zealand.
 
@@ -8,12 +8,12 @@ Business strategist, sales enthusiast, and unapologetic advocate for evidence-ba
 
 - **Sales & Business Strategy** — I believe great sales isn't about pressure, it's about helping people make confident decisions. I study frameworks, psychology, and what actually works in the field.
 - **NZ Policy Commentary** — Housing, cost of living, government accountability. I don't just have opinions — I pull the data and build the case.
-- **Building in Public** — This GitHub is my workshop. You'll find sales frameworks, policy analysis, and research notes. Not finished products — living documents.
+- **Building in Public** — This GitHub is my workshop. You'll find sales frameworks, policy analysis, research notes, and projects. Not finished products — living documents.
 
 ### Connect With Me
 
 - **Twitter/X:** [@ZephrBrennan](https://twitter.com/ZephrBrennan) — sales insights + NZ political commentary
-- **LinkedIn:** [Cheryl Brennan](https://www.linkedin.com/) — professional portfolio & career journey
+- **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/) — professional portfolio & career journey
 
 ---
 
