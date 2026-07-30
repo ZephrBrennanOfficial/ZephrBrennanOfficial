@@ -22,3 +22,12 @@ Business strategist, sales enthusiast, and unapologetic advocate for evidence-ba
 ---
 
 ⭐ If anything here makes you think differently, star a repo. It's better than a LinkedIn endorsement.
+
+
+## 🔗 Latest Launch — Sales Call Analyzer
+
+**Status:** Laounced on LinkedIn — July 31, 2026
+**Repo:** [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer)
+**LinkedIn Post:** [View the announcement](https://www.linkedin.com/in/zephr-bren-a50413426)
+
+Currently seeking testers! If you're in sales and want AI-powered call coaching, check it out.
