@@ -26,7 +26,7 @@ Business strategist, sales enthusiast, and unapologetic advocate for evidence-ba
 
 ## 🔗 Latest Launch — Sales Call Analyzer
 
-**👉 [Try it live — 100% free, no signup]()** — upload a sales call, get AI coaching in 2 minutes.
+**👉 [Try it live — 100% free, no signup](https://koda-2502c10b.base44.app/functions/serveAnalyzerApp)** — upload a sales call, get AI coaching in 2 minutes.
 
 **Status:** Launched July 31, 2026 — seeking testers
 **Repo:** [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer)
@@ -35,7 +35,7 @@ Business strategist, sales enthusiast, and unapologetic advocate for evidence-ba
 What it does: Send a sales call recording → AI gives you a score, feedback, objection analysis, and next steps. Completely free — no API key or signup needed.
 ## 🔗 Latest Launch — Sales Call Analyzer
 
-**👉 [Try it live — 100% free, no signup]()** — upload a sales call, get AI coaching in 2 minutes.
+**👉 [Try it live — 100% free, no signup](https://koda-2502c10b.base44.app/functions/serveAnalyzerApp)** — upload a sales call, get AI coaching in 2 minutes.
 
 **Status:** Launched July 31, 2026 — seeking testers
 **Repo:** [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer)
