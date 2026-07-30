@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Cheryl Brennan 👋
 
-<!--
-**ZephrBrennanOfficial/ZephrBrennanOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business strategist, sales enthusiast, and unapologetic advocate for evidence-based policy in Aotearoa New Zealand.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm About
+
+- **Sales & Business Strategy** — I believe great sales isn't about pressure, it's about helping people make confident decisions. I study frameworks, psychology, and what actually works in the field.
+- **NZ Policy Commentary** — Housing, cost of living, government accountability. I don't just have opinions — I pull the data and build the case.
+- **Building in Public** — This GitHub is my workshop. You'll find sales frameworks, policy analysis, and research notes. Not finished products — living documents.
+
+### Connect With Me
+
+- **Twitter/X:** [@ZephrBrennan](https://twitter.com/ZephrBrennan) — sales insights + NZ political commentary
+- **LinkedIn:** [Cheryl Brennan](https://www.linkedin.com/) — professional portfolio & career journey
+
+---
+
+> *"The people who impress me aren't the ones with all the answers — they're the ones who keep asking better questions."*
+
+---
+
+⭐ If anything here makes you think differently, star a repo. It's better than a LinkedIn endorsement.
