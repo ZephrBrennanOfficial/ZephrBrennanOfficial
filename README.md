@@ -1,35 +1,54 @@
 # Hi, I'm Zephr Brennan 👋
 
-Business strategist, sales enthusiast, and unapologetic advocate for evidence-based policy in Aotearoa New Zealand.
+Sales strategist, consultant, and unapologetic advocate for evidence-based policy in Aotearoa New Zealand.
 
 ---
 
-### What I'm About
+### 🔥 What I'm Building
 
-- **Sales & Business Strategy** — I believe great sales isn't about pressure, it's about helping people make confident decisions. I study frameworks, psychology, and what actually works in the field.
-- **NZ Policy Commentary** — Housing, cost of living, government accountability. I don't just have opinions — I pull the data and build the case.
-- **Building in Public** — This GitHub is my workshop. You'll find sales frameworks, policy analysis, research notes, and projects. Not finished products — living documents.
+Not a resume. A workshop. Every repo here is proof I don't just study sales and strategy — I build tools, write frameworks, and pull data to back up my thinking. This is a living portfolio, not a finished product.
 
 ---
 
-### Repositories
+### 📦 Repositories
 
-| Repo | Description |
-|------|-------------|
-| [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer) | AI-powered sales call coaching — upload a recording, get a score and feedback. [Try it live →](https://koda-2502c10b.base44.app/functions/serveAnalyzerApp) |
-| [sales-strategy-hub](https://github.com/ZephrBrennanOfficial/sales-strategy-hub) | Sales frameworks, objection handling scripts, and modern sales insights |
-| [nz-policy-analysis](https://github.com/ZephrBrennanOfficial/nz-policy-analysis) | Data-driven analysis of NZ housing, cost of living, and government policy |
+| Repo | What It Is | Status |
+|------|-----------|--------|
+| [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — audit checklists, discovery templates, ROI calculator, outreach scripts | 🟢 Active |
+| [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Analytical consulting deliverables — market analysis, sales diagnostics, data-backed reports | 🟢 Active |
+| [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer) | AI-powered sales call coaching — upload a recording, get a score and feedback. [Try it live →](https://koda-2502c10b.base44.app/functions/serveAnalyzerApp) | 🟡 Beta |
+| [sales-strategy-hub](https://github.com/ZephrBrennanOfficial/sales-strategy-hub) | Sales frameworks, objection handling scripts, and modern sales psychology | 🟢 Active |
+| [nz-policy-analysis](https://github.com/ZephrBrennanOfficial/nz-policy-analysis) | Data-driven analysis of NZ housing, cost of living, and government accountability | 🟢 Active |
 
 ---
 
-### Connect With Me
+### 🌐 Portfolio Site
+
+**[zephrbrennanofficial.github.io](https://zephrbrennanofficial.github.io)** — my professional landing page, built from scratch and hosted on GitHub Pages.
+
+---
+
+### 🎯 What I Do
+
+- **Sales Strategy & Process Design** — I audit sales processes, find the leaks, and build playbooks that close them.
+- **Sales Coaching & Call Analysis** — I analyze sales calls and give reps specific, actionable feedback. Not "be more confident" — actual fixes with quotes and scripts.
+- **Market Analysis & Business Consulting** — I break down market opportunities, competitive landscapes, and strategic recommendations backed by data.
+
+---
+
+### 🔗 Connect
 
 - **Twitter/X:** [@ZephrBrennan](https://twitter.com/ZephrBrennan) — sales insights + NZ political commentary
 - **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/in/zephr-bren-a50413426) — professional portfolio & career journey
+- **Sales Call Analyzer:** [Try it free →](https://koda-2502c10b.base44.app/functions/serveAnalyzerApp)
 
 ---
 
+### 💭 Philosophy
+
 > *"The people who impress me aren't the ones with all the answers — they're the ones who keep asking better questions."*
+
+I'm entry-level and I'm not pretending otherwise. But I believe the fastest way to climb isn't to wait for permission — it's to build proof that you can already do the job. That's what this portfolio is.
 
 ---
 
