@@ -14,6 +14,7 @@ Not a resume. A workshop. Every repo here is proof I don't just study sales and 
 
 | Repo | What It Is | Status |
 |------|-----------|--------|
+| [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My professional landing page — live at [zephrbrennanofficial.github.io/portfolio](https://zephrbrennanofficial.github.io/portfolio/) | 🟢 Live |
 | [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — audit checklists, discovery templates, ROI calculator, outreach scripts | 🟢 Active |
 | [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Analytical consulting deliverables — market analysis, sales diagnostics, data-backed reports | 🟢 Active |
 | [sales-call-analyzer](https://github.com/ZephrBrennanOfficial/sales-call-analyzer) | AI-powered sales call coaching — upload a recording, get a score and feedback. [Try it live →](https://koda-2502c10b.base44.app/functions/serveAnalyzerApp) | 🟡 Beta |
@@ -24,7 +25,7 @@ Not a resume. A workshop. Every repo here is proof I don't just study sales and 
 
 ### 🌐 Portfolio Site
 
-**[zephrbrennanofficial.github.io](https://zephrbrennanofficial.github.io)** — my professional landing page, built from scratch and hosted on GitHub Pages.
+**[zephrbrennanofficial.github.io/portfolio](https://zephrbrennanofficial.github.io/portfolio/)** — my professional landing page, built from scratch and hosted on GitHub Pages.
 
 ---
 
@@ -48,7 +49,7 @@ Not a resume. A workshop. Every repo here is proof I don't just study sales and 
 
 > *"The people who impress me aren't the ones with all the answers — they're the ones who keep asking better questions."*
 
-I'm entry-level and I'm not pretending otherwise. But I believe the fastest way to climb isn't to wait for permission — it's to build proof that you can already do the job. That's what this portfolio is.
+This portfolio is my proof of work. I believe the fastest way to grow is to build, ship, and refine in public.
 
 ---
 
