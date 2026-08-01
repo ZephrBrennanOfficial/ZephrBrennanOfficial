@@ -14,17 +14,18 @@ I'm building a career in sales, business strategy, and AI from the ground up. In
 
 ## 💼 Work With Me
 
-Outside my 40-hour job, I take on projects where I can actually help. Rates are early-career friendly — I'm building a reputation, not a consultancy.
+I'm not a consultant. I'm your customer.
 
-| Service | What You Get | From |
-|---------|-------------|------|
-| **Cold Outreach Templates** | 3 cold emails + 2 LinkedIn scripts + follow-up sequence + psychology breakdown | $90 NZD |
-| **Sales Call Feedback** | Written audit of your call across 8 dimensions, or 45-min live roleplay session | $60 NZD |
-| **LinkedIn Profile Rewrite** | Headline + About + experience entries + keyword strategy + first 5 post ideas | $120 NZD |
-| **AI for Sales Workflow** | Workflow audit + 3-5 automation opportunities + prompt library + setup guide | $150 NZD |
-| **NZ Market Entry Brief** | 8-12 page brief with TAM/SAM/SOM, competitive matrix, GTM roadmap | $300 NZD |
+I make cold calls for a living and I'm the demographic your sales team is trying to reach. I'll tell you what your team won't — because they wrote the script, and I'm the one hanging up on it. One-time engagements. No retainer. No upsell.
 
-DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan) or [Substack](https://zephrbrennan.substack.com) to chat. Everything scoped to your actual need — no fluff.
+| Service | What You Get | Price |
+|---------|-------------|-------|
+| **The Cold Outreach Teardown** | Line-by-line teardown of your email sequence + call script. Every line marked: "I'd reply" / "I'd ignore" / "I'd hang up." Plus rewrites of your top 3 messages. | $350 NZD |
+| **The Buyer's Seat Audit** | I walk through your full sales process as a real buyer. Every friction point, trust break, and disengagement moment flagged. Top 5 things losing you deals. | $500 NZD |
+| **The Reality Check Pitch** | 60-min live call where you pitch me as your ideal customer. I ask real buyer questions, raise real objections. Full debrief on what landed and what didn't. | $300 NZD |
+| **Messaging Ground Truth** | Annotated review of your website, deck, and case studies by someone who doesn't know your product. Every section marked: "builds trust" / "loses me" / "no idea what this means." | $400 NZD |
+
+DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan) to start.
 
 ---
 
