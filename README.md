@@ -1,62 +1,57 @@
-# Hi, I'm Zephr Brennan 👋
+# Zephr Brennan
 
-LinkedIn Ghostwriter | AI Workflow Builder | Auckland, NZ
+**Writer · Builder · Lifelong Learner** — Auckland, Aotearoa NZ
 
----
-
-## What I Do
-
-### LinkedIn Ghostwriting for Founders
-
-You know you should post on LinkedIn. You don't. You're busy running a company.
-
-I write your LinkedIn posts in **your voice** — not corporate, not generic, not "thought leadership" slop. Posts that sound like you on your best day. You review them, you approve them, you hit publish. I do the writing.
-
-**How it works:**
-1. 45-min call to learn your voice and opinions
-2. I write your first 4 posts — **free**
-3. If you like them, 8 posts/month ongoing
-
-**First 4 posts are free.** If you don't like them, you walk away. No risk.
-
-👉 **[Quill — LinkedIn Ghostwriting](https://zephrbrennanofficial.github.io/ghostwriting/)** — or DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan)
+I'm an early-career professional building a career from the ground up — in sales, business strategy, and AI. I document everything I learn, create things in public, and believe that starting at the bottom is an advantage, not a limitation. The view from here teaches you things the top never will.
 
 ---
 
-## My Own Writing
+## Values
 
-I write a 5-part series on Substack about what the bottom of the ladder teaches you about sales. If you want to see how I write before working with me, read it.
+- **Growth over optics** — I'd rather be honest about where I'm at and growing visibly than pretend I'm further along than I am.
+- **Learning in public** — Everything I build, study, and write is documented openly. Not because I have all the answers — because the process of sharing makes the learning stick.
+- **The bottom-up view** — The people closest to the work see things the people at the top can't. That perspective is where the real insight lives.
+- **Honest writing** — Short, direct, no jargon. If it doesn't sound like something a real person would say out loud, it doesn't get published.
 
-**Read it here:** [https://zephrbrennan.substack.com](https://zephrbrennan.substack.com)
+---
+
+## What I'm Working On
+
+**Quill — LinkedIn Ghostwriting** · A professional ghostwriting service for founders who should be posting but don't have time. Voice capture, post writing, engagement tracking. First 4 posts free.
+→ [quill](https://zephrbrennanofficial.github.io/ghostwriting/)
+
+**Substack Series** · A 5-part series on what the bottom of the ladder teaches you about sales, trust, attention, and leadership. Written from the perspective of someone who's actually at the bottom.
+→ [substack](https://zephrbrennan.substack.com)
+
+**Sales Frameworks** · Practical discovery templates, objection handling scripts, cold outreach experiments, and market analysis. Studying what makes sales actually work, not what textbooks say should work.
+
+**NZ Policy & Data** · Data-driven analysis of Aotearoa's housing crisis, cost of living, and public policy. Numbers, context, and honest questions — no party lines.
 
 ---
 
 ## Repositories
 
-| Repo | What It Is | Status |
-|------|-----------|--------|
-| [ghostwriting](https://github.com/ZephrBrennanOfficial/ghostwriting) | Quill — live LinkedIn ghostwriting service site | 🟢 Live |
-| [linkedin-ghostwriting](https://github.com/ZephrBrennanOfficial/linkedin-ghostwriting) | Internal service docs — onboarding kit, sample posts, pricing guide | 🔒 Private |
-| [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My landing page with ghostwriting service + contact form — live at [https://zephrbrennanofficial.github.io/portfolio/](https://zephrbrennanofficial.github.io/portfolio/) | 🟢 Live |
-| [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — discovery templates, audit checklists, ROI calculator, objection handling | 🟢 Active |
-| [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Practice case studies — market analysis, sales diagnostics, and revenue modeling | 🟢 Active |
-| [sales-practice-lab](https://github.com/ZephrBrennanOfficial/sales-practice-lab) | Mock discovery calls, cold outreach experiments, book notes, and objection roleplay logs | 🟢 Active |
-| [nz-policy-analysis](https://github.com/ZephrBrennanOfficial/nz-policy-analysis) | Data-driven analysis of Aotearoa New Zealand housing, cost of living, and public policy | 🟡 In Progress |
+| Repo | What It Is |
+|------|-----------|
+| [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My personal portfolio — values, writing, projects, and what I'm building |
+| [ghostwriting](https://github.com/ZephrBrennanOfficial/ghostwriting) | Quill — live LinkedIn ghostwriting service site |
+| [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — discovery templates, audit checklists, objection handling |
+| [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Practice case studies — market analysis, sales diagnostics, revenue modeling |
+| [sales-practice-lab](https://github.com/ZephrBrennanOfficial/sales-practice-lab) | Mock discovery calls, cold outreach experiments, book notes, objection roleplay logs |
+| [nz-policy-analysis](https://github.com/ZephrBrennanOfficial/nz-policy-analysis) | Data-driven analysis of Aotearoa NZ housing, cost of living, and public policy |
 
 ---
 
 ## Connect
 
-- **Portfolio:** [https://zephrbrennanofficial.github.io/portfolio/](https://zephrbrennanofficial.github.io/portfolio/) — see the ghostwriting service + contact form
-- **Substack:** [https://zephrbrennan.substack.com](https://zephrbrennan.substack.com) — 5-part sales insight series
-- **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/in/zephrbrennan) — DM for ghostwriting enquiries
+- **Portfolio:** [zephrbrennanofficial.github.io/portfolio](https://zephrbrennanofficial.github.io/portfolio/)
+- **Quill:** [zephrbrennanofficial.github.io/ghostwriting](https://zephrbrennanofficial.github.io/ghostwriting/)
+- **Substack:** [zephrbrennan.substack.com](https://zephrbrennan.substack.com)
+- **LinkedIn:** [in/zephrbrennan](https://www.linkedin.com/in/zephrbrennan)
 - **Twitter/X:** [@ZephrBrennan](https://twitter.com/ZephrBrennan)
-- **GitHub:** [ZephrBrennanOfficial](https://github.com/ZephrBrennanOfficial)
 
 ---
 
-## Philosophy
+> *"The goal isn't to skip steps. It's to earn every single one of them."*
 
-> *"Write the way people actually talk — because that's what gets read."*
-
-⭐ If you find any of these repos useful, feel free to star or share!
+⭐ If any of these repos are useful, feel free to star or share.
