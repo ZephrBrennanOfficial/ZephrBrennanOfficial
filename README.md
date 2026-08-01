@@ -35,6 +35,7 @@ I write a 5-part series on Substack about what the bottom of the ladder teaches 
 
 | Repo | What It Is | Status |
 |------|-----------|--------|
+| [linkedin-ghostwriting](https://github.com/ZephrBrennanOfficial/linkedin-ghostwriting) | LinkedIn ghostwriting service — process, sample posts, onboarding kit, pricing | 🟢 Live |
 | [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My landing page with ghostwriting service + contact form — live at [https://zephrbrennanofficial.github.io/portfolio/](https://zephrbrennanofficial.github.io/portfolio/) | 🟢 Live |
 | [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — discovery templates, audit checklists, ROI calculator, objection handling | 🟢 Active |
 | [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Practice case studies — market analysis, sales diagnostics, and revenue modeling | 🟢 Active |
