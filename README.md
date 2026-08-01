@@ -12,20 +12,18 @@ I'm building a career in sales, business strategy, and AI from the ground up. In
 
 ---
 
-## 💼 Work With Me
+## 💼 What Only I Can Give You
 
-I'm not a consultant. I'm your customer.
+You can hire a sales consultant who hasn't made a cold call in a decade. Or you can hire the person who makes 40+ cold calls a day asking strangers for money, studies the psychology behind every single one, spent four years in professional theatre, and IS the generation your sales team is failing to reach. These didn't exist until I started doing them — because nobody else is in my position.
 
-I make cold calls for a living and I'm the demographic your sales team is trying to reach. I'll tell you what your team won't — because they wrote the script, and I'm the one hanging up on it. One-time engagements. No retainer. No upsell.
+| Service | Why It Can't Come From Anyone Else | Price |
+|---------|-----------------------------------|-------|
+| **The Rejection Audit** | I've collected 200+ real rejection patterns from real cold calls. Your team knows the 5 textbook objections. I know the 200 that actually kill deals — because I hear them every day. | $450 NZD |
+| **The Frontline Brief** | Your CRM shows what closed. Your managers show what they want you to see. I show what's actually happening on the phones — because I'm on them. Monthly intelligence from the trenches. | $650 NZD/mo |
+| **The Generational Gap Audit** | Your playbook was written by your generation, for your generation. I AM the next generation of buyer. The gap between how you sell and how I buy is where your deals are dying. | $800 NZD |
+| **The Performance Review** | Sales is performance. I spent 4 years in professional theatre — backstage at Mary Poppins and CATS. I review your team's calls through the lens of stagecraft: pacing, timing, energy, the pause before the key line. No sales trainer comes at it from this angle. | $550 NZD |
 
-| Service | What You Get | Price |
-|---------|-------------|-------|
-| **The Cold Outreach Teardown** | Line-by-line teardown of your email sequence + call script. Every line marked: "I'd reply" / "I'd ignore" / "I'd hang up." Plus rewrites of your top 3 messages. | $350 NZD |
-| **The Buyer's Seat Audit** | I walk through your full sales process as a real buyer. Every friction point, trust break, and disengagement moment flagged. Top 5 things losing you deals. | $500 NZD |
-| **The Reality Check Pitch** | 60-min live call where you pitch me as your ideal customer. I ask real buyer questions, raise real objections. Full debrief on what landed and what didn't. | $300 NZD |
-| **Messaging Ground Truth** | Annotated review of your website, deck, and case studies by someone who doesn't know your product. Every section marked: "builds trust" / "loses me" / "no idea what this means." | $400 NZD |
-
-DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan) to start.
+**One-time engagements. No retainer. No upsell.** DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan) to start.
 
 ---
 
