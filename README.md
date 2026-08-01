@@ -14,14 +14,15 @@ I'm building a career in sales, business strategy, and AI from the ground up. In
 
 ## 💼 What Only I Can Give You
 
-You can hire a sales consultant who hasn't made a cold call in a decade. Or you can hire the person who makes 40+ cold calls a day asking strangers for money, studies the psychology behind every single one, spent four years in professional theatre, and IS the generation your sales team is failing to reach. These didn't exist until I started doing them — because nobody else is in my position.
+You can hire consultants who learned your business from the outside and haven't been in the trenches since the Obama era. Or you can hire someone who's in it right now — making cold calls daily, building with AI, studying the methodology behind every decision, and seeing your organisation from the angle you'll never see it from: the bottom. These aren't services. They're perspectives that didn't exist until I started offering them.
 
-| Service | Why It Can't Come From Anyone Else | Price |
-|---------|-----------------------------------|-------|
-| **The Rejection Audit** | I've collected 200+ real rejection patterns from real cold calls. Your team knows the 5 textbook objections. I know the 200 that actually kill deals — because I hear them every day. | $450 NZD |
-| **The Frontline Brief** | Your CRM shows what closed. Your managers show what they want you to see. I show what's actually happening on the phones — because I'm on them. Monthly intelligence from the trenches. | $650 NZD/mo |
-| **The Generational Gap Audit** | Your playbook was written by your generation, for your generation. I AM the next generation of buyer. The gap between how you sell and how I buy is where your deals are dying. | $800 NZD |
-| **The Performance Review** | Sales is performance. I spent 4 years in professional theatre — backstage at Mary Poppins and CATS. I review your team's calls through the lens of stagecraft: pacing, timing, energy, the pause before the key line. No sales trainer comes at it from this angle. | $550 NZD |
+| Service | Area | Why It Can Only Come From Me | Price |
+|---------|------|------------------------------|-------|
+| **The Rejection Audit** | Sales | I've collected 200+ real rejection patterns from cold calls. Your team knows the 5 textbook ones. I know the 200 that actually kill deals. | $450 NZD |
+| **The View From Below** | Leadership | Your 360 comes from peers. Your survey is filtered. I'm the entry-level person who sees what your leadership actually looks like in practice. | $600 NZD |
+| **The AI Reality Check** | AI | Your AI consultant sells "transformation." I actually build with AI daily. I'll tell you what will save hours vs. what's expensive hype your team will never use. | $700 NZD |
+| **The Bullshit Filter** | Business | Your pitch sounds great in the boardroom. Does it survive contact with someone numerate, skeptical, outside your industry, with no stake in your outcome? | $800 NZD |
+| **The Performance Review** | Performance | I spent 4 years in professional theatre. Sales and leadership ARE performance — pacing, timing, energy, the pause before the key line. No trainer comes at it from this angle. | $550 NZD |
 
 **One-time engagements. No retainer. No upsell.** DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan) to start.
 
