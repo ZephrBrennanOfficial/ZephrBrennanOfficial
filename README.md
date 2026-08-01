@@ -38,10 +38,6 @@ I write a 5-part series on Substack about what the bottom of the ladder teaches 
 | [ghostwriting](https://github.com/ZephrBrennanOfficial/ghostwriting) | Quill — live LinkedIn ghostwriting service site | 🟢 Live |
 | [linkedin-ghostwriting](https://github.com/ZephrBrennanOfficial/linkedin-ghostwriting) | Internal service docs — onboarding kit, sample posts, pricing guide | 🔒 Private |
 | [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My landing page with ghostwriting service + contact form — live at [https://zephrbrennanofficial.github.io/portfolio/](https://zephrbrennanofficial.github.io/portfolio/) | 🟢 Live |
-| [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — discovery templates, audit checklists, ROI calculator, objection handling | 🟢 Active |
-| [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Practice case studies — market analysis, sales diagnostics, and revenue modeling | 🟢 Active |
-| [sales-practice-lab](https://github.com/ZephrBrennanOfficial/sales-practice-lab) | Mock discovery calls, cold outreach experiments, book notes, and objection roleplay logs | 🟢 Active |
-| [nz-policy-analysis](https://github.com/ZephrBrennanOfficial/nz-policy-analysis) | Data-driven analysis of Aotearoa New Zealand housing, cost of living, and public policy | 🟡 In Progress |
 
 ---
 
