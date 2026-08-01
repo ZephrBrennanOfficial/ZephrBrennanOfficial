@@ -19,7 +19,7 @@ I write your LinkedIn posts in **your voice** — not corporate, not generic, no
 
 **First 4 posts are free.** If you don't like them, you walk away. No risk.
 
-👉 **[Start here](https://zephrbrennanofficial.github.io/portfolio/)** — or DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan)
+👉 **[Start here](https://zephrbrennanofficial.github.io/ghostwriting/)** — or DM me on [LinkedIn](https://www.linkedin.com/in/zephrbrennan)
 
 ---
 
@@ -35,7 +35,8 @@ I write a 5-part series on Substack about what the bottom of the ladder teaches 
 
 | Repo | What It Is | Status |
 |------|-----------|--------|
-| [linkedin-ghostwriting](https://github.com/ZephrBrennanOfficial/linkedin-ghostwriting) | LinkedIn ghostwriting service — process, sample posts, onboarding kit, pricing | 🟢 Live |
+| [ghostwriting](https://github.com/ZephrBrennanOfficial/ghostwriting) | Live ghostwriting service site — all info, samples, pricing, contact + question forms | 🟢 Live |
+| [linkedin-ghostwriting](https://github.com/ZephrBrennanOfficial/linkedin-ghostwriting) | Internal service docs — onboarding kit, sample posts, pricing guide | 🔒 Private |
 | [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My landing page with ghostwriting service + contact form — live at [https://zephrbrennanofficial.github.io/portfolio/](https://zephrbrennanofficial.github.io/portfolio/) | 🟢 Live |
 | [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — discovery templates, audit checklists, ROI calculator, objection handling | 🟢 Active |
 | [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Practice case studies — market analysis, sales diagnostics, and revenue modeling | 🟢 Active |
