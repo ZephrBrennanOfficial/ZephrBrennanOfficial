@@ -1,8 +1,8 @@
-# Zephr Brennan
+# The Hub
 
-🌐 **[Hub — Everything I Build](https://zephrbrennanofficial.github.io/zephr-brennan/)** · 📂 **[Portfolio](https://zephrbrennanofficial.github.io/portfolio/)** · ✍️ **[Quill — Ghostwriting](https://zephrbrennanofficial.github.io/ghostwriting/)** · 📖 **[Substack](https://zephrbrennan.substack.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/zephrbrennan)** · 🐦 **[Twitter/X](https://twitter.com/ZephrBrennan)**
+🌐 **[The Hub — Everything I Build](https://zephrbrennanofficial.github.io/the-hub/)** · 📂 **[Portfolio](https://zephrbrennanofficial.github.io/portfolio/)** · ✍️ **[Quill — Ghostwriting](https://zephrbrennanofficial.github.io/ghostwriting/)** · 📖 **[Substack](https://zephrbrennan.substack.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/zephrbrennan)** · 🐦 **[Twitter/X](https://twitter.com/ZephrBrennan)**
 
-I'm an early-career professional building a career from the ground up — in sales, business strategy, and AI. I document everything I learn, create things in public, and believe that starting at the bottom is an advantage, not a limitation. The view from here teaches you things the top never will.
+I'm Zephr Brennan — an early-career professional building a career from the ground up in sales, business strategy, and AI. I document everything I learn, create things in public, and believe that starting at the bottom is an advantage, not a limitation. The view from here teaches you things the top never will.
 
 ---
 
@@ -10,13 +10,13 @@ I'm an early-career professional building a career from the ground up — in sal
 
 Everything I've built — merged into one repo with an interactive site. All my sales frameworks, case studies, practice logs, NZ policy analysis, and ghostwriting resources in one place.
 
-→ **[Visit the Hub](https://zephrbrennanofficial.github.io/zephr-brennan/)**
+→ **[Visit The Hub](https://zephrbrennanofficial.github.io/the-hub/)**
 
 ## Live Sites
 
 | Site | What It Is |
 |------|-----------|
-| [Hub](https://zephrbrennanofficial.github.io/zephr-brennan/) | Interactive overview of everything I build — all repos, all socials, all in one place |
+| [The Hub](https://zephrbrennanofficial.github.io/the-hub/) | Interactive overview of everything I build — all repos, all socials, all in one place |
 | [Portfolio](https://zephrbrennanofficial.github.io/portfolio/) | My personal portfolio — values, writing, projects, and what I'm building |
 | [Quill](https://zephrbrennanofficial.github.io/ghostwriting/) | LinkedIn ghostwriting service for founders — first 4 posts free |
 
