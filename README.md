@@ -36,7 +36,7 @@ I'm an early-career professional building a career from the ground up — in sal
 | Repo | What It Is |
 |------|-----------|
 | [portfolio](https://github.com/ZephrBrennanOfficial/portfolio) | My personal portfolio — values, writing, projects, and what I'm building |
-| [ghostwriting](https://github.com/ZephrBrennanOfficial/ghostwriting) | Quill — live LinkedIn ghostwriting service site |
+| [ghostwriting](https://github.com/ZephrBrennanOfficial/ghostwriting) | Quill — LinkedIn ghostwriting service site (live) |
 | [sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit) | Practical sales frameworks — discovery templates, audit checklists, objection handling |
 | [business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies) | Practice case studies — market analysis, sales diagnostics, revenue modeling |
 | [sales-practice-lab](https://github.com/ZephrBrennanOfficial/sales-practice-lab) | Mock discovery calls, cold outreach experiments, book notes, objection roleplay logs |
